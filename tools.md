@@ -9,3 +9,7 @@ Useful sites
 - Canva
     http://www.canva.com/
     Used to create simple graphics and fonts (online photoshop equivalent)
+
+- Pivotal Tracker
+    http://www.pivotaltracker.com/
+    Used to create and manage digital user stories/agile software development
