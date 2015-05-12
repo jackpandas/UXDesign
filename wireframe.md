@@ -1,13 +1,17 @@
-Low-fidelity
+####**Wireframing**
 
-A simple and quick mockup with dummy content. It's first idea of the application
+* A simple visual guide that represents the framework/blueprint
 
-High-fidelity
+**Low-fidelity wireframes**
 
-Add more details to the basic wireframe. It's used as a documentation
+* A simple and quick mockup with dummy content. It's first idea of the application.
 
-ELEMENT OF WIREFRAMING
+**High-fidelity wireframes**
 
-Information design: How to prioritise information (Title, sub-title, list...)
-Navigation design: links, global/local/supplementary navigation
-Interface Design: How to desplay the information (button, text-box, color...)
+* Add more details to the basic wireframe. It's used as a documentation.
+
+**Elements of wireframe design**
+
+* Information design: how to prioritise information (title, list, sub-list…)
+* Navigation design: links, global/local/supplementary navigation
+* Interface design: how to display the information (button, text box, colour…)
