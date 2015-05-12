@@ -13,6 +13,7 @@
 
 * **As a** [role]**, I want** [goal/desire], **so that** [benefit].
 * Example: **As a** game player **I want** to get push notifications when I have more lives **so that** I know when I can play the game again.
+* It can be useful to create "personas" of people who may be using the product, and imagine their user stories.
 
 #####Testing the Story
 
